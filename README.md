@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo Lanziotti.
 
-- 🌱 Estudando Git, HTML, CSS, Javascript, NodeJS, ReactJS, PostgreeSQL
+- 🌱 Estudando Git, HTML, CSS, Javascript, NodeJS, ReactJS, PostgreSQL
 - 😄 Pronouns: ele/dele
 
 <div align="center">
