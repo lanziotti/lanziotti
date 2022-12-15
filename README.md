@@ -14,7 +14,7 @@ Que tal agora passarmos por algumas informações mais específicas sobre o que 
 
 
 
-Essas são as tecnologias que estou utilizando e estudando no momento:
+Essas são as tecnologias e ferramentas que estou utilizando e estudando no momento:
 <div style="display: inline_block"><br>
   <img align="center" alt="lanziotti-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"">
   <img align="center" alt="lanziotti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
